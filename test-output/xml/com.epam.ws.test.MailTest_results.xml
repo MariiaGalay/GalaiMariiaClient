@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WebDriver test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0,172">
+  <properties />
+  
+  
+            <testcase name="getAllById" time="0,156" classname="com.epam.ws.test.MailTest" />
+                <testcase name="getAllBySubject" time="0,000" classname="com.epam.ws.test.MailTest" />
+                <testcase name="getAllLettersSize" time="0,000" classname="com.epam.ws.test.MailTest" />
+                <testcase name="getAllBySubjectLesson" time="0,004" classname="com.epam.ws.test.MailTest" />
+                <testcase name="getSubject" time="0,012" classname="com.epam.ws.test.MailTest" />
+                <testcase name="getById" time="0,000" classname="com.epam.ws.test.MailTest" />
+      
+</testsuite>
